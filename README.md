@@ -1,4 +1,3 @@
-# NetBeansProjects
 # Tile of the Project
 Intro to JsonPowerDB
 
