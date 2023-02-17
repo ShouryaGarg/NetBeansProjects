@@ -19,7 +19,7 @@ WebFormExample
     index.html
 
 # Illustration
-![image](file:///C:/Users/Shourya/OneDrive/Pictures/Screenshots/Screenshot%20(37).png)
+![image](https://drive.google.com/file/d/1r6NzSdVD-l3TUrOQdWGHRdtPB1hrmpnc/view?usp=share_link)
 
 # Scope of functionalities
 1. Web-services API - Can be used with any programming language that has support for HTTP.
